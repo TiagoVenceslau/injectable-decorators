@@ -1,3 +1,5 @@
+ARCHIVED. Moved to become bart of the ![decaf-ts](gitub.com/decaf-ts) project
+
 [![Banner](./assets/banner.png)](https://www.glass-h2020.eu/)
 
 ![Licence](https://img.shields.io/github/license/TiagoVenceslau/injectable-decorators.svg)
